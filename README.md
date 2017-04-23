@@ -17,7 +17,7 @@ We will be given a time series data set containing three variables namely QTY, R
     MPRICE : Selling price of a product decided by the manufacturer
     
 
-Procedure:
+# Procedure:
 1. In order to remove the interdependencies among the variables in the time series data set, we will build a vector autoregressive model (VAR model). The Schwartz Information Criterion will be used to choose the optimal time lag in the VAR model. While building a VAR model, we can assume absence of trend in the model
 
 2. The residuals obtained from the VAR model for each variable will be tested using the Augmented Dickey-Fuller test at a significance level of 0.05 to detect if the time series is stationary or not
