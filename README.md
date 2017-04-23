@@ -1,6 +1,6 @@
 # Causal-Discovery-between-Manufacturer-Retailer-price-channels
 
-#Overview:
+# Overview:
 Identifying the strategy employed by business firms has motivated empirical research towards studying a firm’s behavior. If there exists a specific pattern that can describe the interactions between the manufacturers and retailers, the application of causality analysis on their pricing interaction can clarify their strategic behavior. 
 
 The interactions between the manufacturer and retailer can be discussed to follow a verticalintegrated system or Stackelberg leadership bilateral-monopoly model. In a vertical-integrated system, the manufacturer and retailer cooperate to maximize the profit of the distribution channel instead of individual profit. The important character of this model is that both the manufacturer and retailer affect the sales of the product.
